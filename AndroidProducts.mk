@@ -15,3 +15,8 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/carbon_beryllium.mk
+    
+COMMON_LUNCH_CHOICES := \
+    carbon_beryllium-user \
+    carbon_beryllium-userdebug \
+    carbon_beryllium-eng
