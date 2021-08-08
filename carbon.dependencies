@@ -1,0 +1,20 @@
+[
+  {
+    "remote": "github",
+    "repository": "Xeesan/device_xiaomi_beryllium_carbon",
+    "target_path": "device/xiaomi/beryllium",
+    "branch": "ten"
+  },
+  {
+    "remote": "github",
+    "repository": "Xeesan/device_xiaomi_sdm845-common_ac",
+    "target_path": "device/xiaomi/sdm845-common",
+    "branch": "ten-ancient"
+  },
+  {
+    "remote": "github",
+    "repository": "ancient-devices/vendor_xiaomi_beryllium",
+    "target_path": "vendor/xiaomi",
+    "branch": "ten"
+  }
+]
